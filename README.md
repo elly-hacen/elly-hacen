@@ -21,7 +21,7 @@ Hello there! I'm an aspiring IT professional, currently diving deep into the wor
 ### 📜 Developer's Thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## &nbsp; My Stats :
+## &nbsp; MI only streak I care :
 
 <div align="center">
 
