@@ -20,3 +20,16 @@ Hello there! I'm an aspiring IT professional, currently diving deep into the wor
 
 ### 📜 Developer's Thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## &nbsp; My Stats :
+
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad-Habib&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad-Habib&show_icons=true&theme=vision-friendly-dark)
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahad-Habib&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+</div>
