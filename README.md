@@ -21,11 +21,3 @@ Hello there! I'm an aspiring IT professional, currently diving deep into the wor
 ### 📜 Developer's Thought
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## &nbsp; 🔥 The only streak I care :
-
-<div align="center">
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahad-Habib&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-</div>
