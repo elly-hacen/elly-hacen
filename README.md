@@ -8,8 +8,11 @@ Hello there! I'm an aspiring IT professional, currently diving deep into the wor
 - 🌐 **Interests**: Ethical hacking, Linux technologies, and network security captivate me.
 - 🚀 **Growth**: Continuously exploring new tools and techniques to stay updated in this dynamic field.
 
-## 📣 Connect with Me
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ellyhacen)
+## 📣 Connect with Me                    
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23008080.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elly-hacen.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elly-hacen/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ElieHacen)
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
