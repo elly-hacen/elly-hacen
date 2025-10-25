@@ -1,18 +1,14 @@
-# 🌟 About Me
+# 🦥 About Me
 
-Hello there! I'm an aspiring IT professional, currently diving deep into the world of technology. Here's a bit about me:
+Hello there! I'm **Elie**, a Python developer at **IPI**, skilled in Django and DRF. I have created and implemented **multi-tenant architecture for schools** and work on **Agentic**, where I fine-tune AI models, prepare learning datasets, and validate interactions between tools to ensure workflows actually work.
 
-- 🎓 **Education**: Pursuing an undergraduate degree in Information Technology from the **University of Agriculture Faisalabad (UAF)**.
-- 🧠 **Problem Solving**: I often challenge myself with problems on [LeetCode](https://leetcode.com/problemset/all/) and [CodeWars](https://www.codewars.com/).
-- 🛠️ **Development**: Passionate about application development and the joy of building them from scratch.
-- 🌐 **Interests**: Ethical hacking, Linux technologies, and network security captivate me.
-- 🚀 **Growth**: Continuously exploring new tools and techniques to stay updated in this dynamic field.
+When I get bored, I read **Rust docs**, a language I picked up to balance my life. Little secret: if I only knew Python, life would be too easy, so I learned a low-level language too 🦥. I also rewrote **Treko**, a company Python desktop app, in Rust, improving CPU efficiency from 40–50% down to 0.3–1%.
 
 ## 📣 Connect with Me                    
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23008080.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elly-hacen.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23008080.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.owerflow.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elly-hacen/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ElieHacen)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ellyhacen)
 
 ## 🛠️ My Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
