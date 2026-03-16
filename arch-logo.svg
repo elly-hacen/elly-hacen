@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="360" viewBox="0 0 360 360">
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360">
+  <!-- Arch Linux ASCII Logo -->
   <text x="10" y="24" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">                   -`</text>
   <text x="10" y="42" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">                  .o+`</text>
   <text x="10" y="60" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">                 `ooo/</text>
@@ -18,4 +19,22 @@
   <text x="10" y="312" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">  `+sso+:-`                 `.-/+oso:</text>
   <text x="10" y="330" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"> `++:.                           `-/+/</text>
   <text x="10" y="348" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"> .`                                 `/</text>
+
+  <!-- Neofetch Info -->
+  <text x="370" y="38" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Role</tspan>       Backend Engineer L3</text>
+  <text x="370" y="58" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Company</tspan>    DispoGenius (Houston, TX)</text>
+  <text x="370" y="78" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Stack</tspan>      Rust · Python · Django</text>
+  <text x="370" y="98" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Infra</tspan>      Docker · AWS · Nginx</text>
+  <text x="370" y="118" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">OS</tspan>         Arch Linux (btw)</text>
+  <text x="370" y="138" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Editor</tspan>     Neovim</text>
+  <text x="370" y="158" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Shell</tspan>      zsh</text>
+  <text x="370" y="178" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Term</tspan>       Ghostty</text>
+  <text x="370" y="198" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Mail</tspan>       mr.alihassan@proton.me</text>
+
+  <text x="370" y="234" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">AI-powered real estate disposition</text>
+  <text x="370" y="254" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">platform matching deals with buyers</text>
+  <text x="370" y="274" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">in real time. 370M+ property records.</text>
+
+  <text x="370" y="310" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve"><tspan font-weight="bold">Tracko</tspan>     User tracking hub, rewritten</text>
+  <text x="370" y="330" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">           from Python to Rust. Way faster.</text>
 </svg>
