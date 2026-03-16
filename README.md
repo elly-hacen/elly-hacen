@@ -1,16 +1,20 @@
-## Hi there 👋
+<img align="left" src="./arch-logo.svg" width="280" alt="i use arch btw">
 
-<!--
-**elly-hacen/elly-hacen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Role       Backend Engineer L3
+Company    DispoGenius (Houston, TX)
+Stack      Rust · Python · Django
+Infra      Docker · AWS · Nginx
+OS         Arch Linux (btw)
+Editor     Neovim
+Shell      zsh
+Term       Ghostty
+Mail       mr.alihassan@proton.me
 
-Here are some ideas to get you started:
+AI-powered real estate disposition
+platform matching deals with buyers
+in real time. 370M+ property records.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tracko     User tracking hub, rewritten
+           from Python to Rust. Way faster.
+```
