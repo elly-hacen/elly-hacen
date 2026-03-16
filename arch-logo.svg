@@ -30,6 +30,6 @@
   <text x="370" y="234" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">AI-powered real estate disposition</text>
   <text x="370" y="254" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">platform matching deals with buyers</text>
   <text x="370" y="274" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">in real time. 370M+ property records.</text>
-  <text x="370" y="310" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">Tracko     User tracking hub, rewritten</text>
-  <text x="370" y="330" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">           from Python to Rust. Way faster.</text>
+  <text x="370" y="310" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">Treko      Desktop app, Python to Rust</text>
+  <text x="370" y="330" fill="#6298e0" font-family="monospace" font-size="13" xml:space="preserve">           CPU: 40-50% down to 0.3-1%</text>
 </svg>
